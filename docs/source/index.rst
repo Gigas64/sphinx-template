@@ -20,4 +20,7 @@ Contents
 .. toctree::
 
    usage
+   
+   :ref:`my-reference-label`.
+   
    api
